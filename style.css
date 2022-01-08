@@ -1,0 +1,16 @@
+body{
+    background-image:url("background2.jpg");
+    background-size:cover;
+}
+.divdisk1 img{
+    width:200px;
+}
+.divdisk2 img{
+    width:200px;
+}
+.divdisk2{
+    float:right;
+}
+.divdisk1{
+    float:left;
+}
